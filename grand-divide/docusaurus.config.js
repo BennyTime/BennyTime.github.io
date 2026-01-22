@@ -95,7 +95,7 @@ const config = {
             position: 'left',
             label: 'World Guide',
           },
-          {to: '/blog', label: 'Campaign Log', position: 'left'},
+          {to: 'blog', label: 'Campaign Log', position: 'left'},
           {
             href: 'https://github.com/BennyTime/BennyTime.github.io',
             label: 'GitHub',
@@ -111,19 +111,19 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/docs/intro',
+                to: 'docs/intro',
               },
               {
                 label: 'Timeline',
-                to: '/docs/timeline/01-early-eras',
+                to: 'docs/timeline/01-early-eras',
               },
               {
                 label: 'World Regions',
-                to: '/docs/world-regions/01-concordant-plains',
+                to: 'docs/world-regions/01-concordant-plains',
               },
               {
                 label: 'Races',
-                to: '/docs/races/01-aelvar',
+                to: 'docs/races/01-aelvar',
               },
             ],
           },
@@ -132,23 +132,23 @@ const config = {
             items: [
               {
                 label: 'Gods & Religion',
-                to: '/docs/gods-religion/01-creators',
+                to: 'docs/gods-religion/01-creators',
               },
               {
                 label: 'General Knowledge',
-                to: '/docs/knowledge/laws-and-rules',
+                to: 'docs/knowledge/laws-and-rules',
               },
               {
                 label: 'Organizations & Guilds',
-                to: '/docs/organizations/01-concordant-plains',
+                to: 'docs/organizations/01-concordant-plains',
               },
               {
                 label: 'Languages & Realms',
-                to: '/docs/languages-realms/01-languages',
+                to: 'docs/languages-realms/01-languages',
               },
               {
                 label: 'Items & Equipment',
-                to: '/docs/items-equipment/01-new-weapons',
+                to: 'docs/items-equipment/01-new-weapons',
               },
             ],
           },
@@ -157,7 +157,7 @@ const config = {
             items: [
               {
                 label: 'Session Log',
-                to: '/blog',
+                to: 'blog',
               },
               {
                 label: 'GitHub',

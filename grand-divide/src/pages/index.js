@@ -78,7 +78,7 @@ export default function Home() {
                 </p>
                 <Link
                   className="button button--primary button--lg"
-                  to="/docs/intro">
+                  to="docs/intro">
                   Explore the World
                 </Link>
               </div>
