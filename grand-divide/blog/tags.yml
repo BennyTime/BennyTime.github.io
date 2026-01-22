@@ -1,0 +1,29 @@
+session-notes:
+  label: Session Notes
+  permalink: /session-notes
+  description: Session recaps and summaries
+
+combat:
+  label: Combat
+  permalink: /combat
+  description: Sessions with major battles
+
+roleplay:
+  label: Roleplay
+  permalink: /roleplay
+  description: Sessions heavy on character development and roleplay
+
+exploration:
+  label: Exploration
+  permalink: /exploration
+  description: Discovery and exploration sessions
+
+major-plot:
+  label: Major Plot
+  permalink: /major-plot
+  description: Sessions advancing major storylines
+
+template:
+  label: Template
+  permalink: /template
+  description: Templates for session notes

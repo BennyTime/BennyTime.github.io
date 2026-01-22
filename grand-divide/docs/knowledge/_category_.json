@@ -1,0 +1,8 @@
+{
+  "label": "General Knowledge",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Laws, legends, and practical information for adventurers."
+  }
+}

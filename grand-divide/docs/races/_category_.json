@@ -1,0 +1,8 @@
+{
+  "label": "Races (Homebrew)",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Fifteen unique playable races native to Vaeloran."
+  }
+}
