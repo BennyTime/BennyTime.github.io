@@ -19,7 +19,7 @@ This site contains:
 
 ## Live Site
 
-Visit the documentation at: [bennytime.github.io/grand-divide](https://bennytime.github.io/grand-divide/)
+Visit the documentation at: [bennytime.github.io/grand-divide/](https://bennytime.github.io/grand-divide/)
 
 ## Local Development
 
