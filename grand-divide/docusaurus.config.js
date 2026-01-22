@@ -23,15 +23,14 @@ const config = {
   url: 'https://bennytime.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/grand-divide/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'BennyTime', // Usually your GitHub org/user name.
   projectName: 'BennyTime.github.io', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
-  
-  trailingSlash: true,
+  deploymentBranch: 'gh-pages', // Branch where the built site will be deployed
+  trailingSlash: true, // GitHub Pages adds trailing slashes by default
 
   onBrokenLinks: 'throw',
 
