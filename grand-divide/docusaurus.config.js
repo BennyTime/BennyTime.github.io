@@ -30,7 +30,7 @@ const config = {
   organizationName: 'BennyTime', // Usually your GitHub org/user name.
   projectName: 'BennyTime.github.io', // Usually your repo name.
   
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
 
