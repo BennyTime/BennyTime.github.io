@@ -13,7 +13,7 @@ Long associated with shadowed dealings, mercenary contracts, and high-risk negot
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Large (7 to 8 feet tall)  
+**Size**: Medium (7 to 8 feet tall)  
 **Life Expectancy**: Unknown (functionally ageless)  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Erekaric.

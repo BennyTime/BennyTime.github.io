@@ -22,7 +22,7 @@ Gravahlren culture values endurance, strength of will, and communal bonds. They 
 When you take non-magical bludgeoning, piercing, or slashing damage, you can reduce the damage by your proficiency bonus.
 
 ### Titanic Frame
-You count as one size larger when determining your carrying capacity, the weight you can push, drag, or lift, and for the purposes of grappling and being grappled. You also have advantage on Strength (Athletics) checks made to shove, climb, or break objects. You have advantage on grappling.
+You count as one size larger when determining your carrying capacity, the weight you can push, drag, or lift, and for the purposes of grappling and being grappled. You also have advantage on Strength checks made to shove, climb, or break objects. You have advantage on grappling.
 
 ### Born from Ice
 You have resistance to cold damage, and you automatically succeed on saving throws against extreme cold environments. You ignore difficult terrain caused by ice, snow, or natural rocky terrain. In addition, you can hold your breath for up to 30 minutes, and you have advantage on Constitution saving throws made to resist exhaustion caused by environmental effects.
