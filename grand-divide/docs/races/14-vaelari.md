@@ -13,7 +13,7 @@ Vaelari are naturally attuned to volatile energies and often serve as stabilizer
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium  
+**Size**: Medium (5-6 feet tall) 
 **Life Expectancy**: 200 years  
 **Speed**: 30 feet  
 **Languages**: You can speak, read, and write Common and Vael.

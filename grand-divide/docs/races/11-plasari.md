@@ -13,7 +13,7 @@ Plasari possess remarkable adaptability and an unusual resistance to environment
 ## Racial Traits
 
 **Creature Type**: Ooze  
-**Size**: Medium (4–6 feet tall in typical humanoid form)  
+**Size**: Medium (4 to 6 feet tall in typical humanoid form)  
 **Life Expectancy**: 500 years (though age is meaningless; they slowly lose cohesion instead of dying)  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Plasaric.

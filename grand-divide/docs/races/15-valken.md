@@ -13,7 +13,7 @@ Once regarded as tools and labor constructs, Valken now seek identity, autonomy,
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (6 to 7 feet tall)  
+**Size**: Medium (6-7 feet tall)  
 **Life Expectancy**: Indefinite  
 **Speed**: 30 feet  
 **Languages**: You can speak, read, and write Common and Valkenico.

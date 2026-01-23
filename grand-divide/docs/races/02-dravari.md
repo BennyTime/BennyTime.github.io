@@ -13,7 +13,7 @@ Dravari culture prizes honor, discipline, and mastery over both body and environ
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (5-6 feet tall)  
+**Size**: Medium (5 to 6 feet tall)  
 **Life Expectancy**: 150 years  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Dravaric.

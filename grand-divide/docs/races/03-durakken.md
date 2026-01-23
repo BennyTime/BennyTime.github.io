@@ -13,7 +13,7 @@ Durakken culture revolves around construction, engineering, and the pursuit of l
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (4-5 feet tall)  
+**Size**: Medium (4 to 5 feet tall)  
 **Life Expectancy**: 300 years  
 **Speed**: 25 ft.  
 **Language**: You can speak, read, and write Common and Durakkic.

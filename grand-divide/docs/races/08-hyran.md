@@ -13,7 +13,7 @@ Hyran ambition and flexibility have made them influential in trade, diplomacy, s
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (5–6 feet tall)  
+**Size**: Medium (5 to 6 feet tall)  
 **Life Expectancy**: 90 years  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and one additional language of your choice.

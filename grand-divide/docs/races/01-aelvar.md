@@ -13,7 +13,7 @@ Aelvar society values reflection, balance, and the careful stewardship of life a
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (6-7 feet tall)  
+**Size**: Medium (6 to 7 feet tall)  
 **Life Expectancy**: 250 years  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Aelvaric.

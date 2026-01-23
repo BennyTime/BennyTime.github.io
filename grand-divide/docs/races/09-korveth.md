@@ -13,7 +13,7 @@ Korveth culture emphasizes honor, martial discipline, and personal accountabilit
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (6–7½ feet tall)  
+**Size**: Medium (6 to 7½ feet tall)  
 **Life Expectancy**: 120 years  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Korvethi.

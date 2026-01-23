@@ -13,7 +13,7 @@ Vanyr society is structured around powerful houses, bloodlines, and intricate po
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Medium (5 to 6 feet)  
+**Size**: Medium (6-7 feet tall)  
 **Life Expectancy**: Indefinite  
 **Speed**: 30 feet  
 **Languages**: You can speak, read, and write Common and Vanarian.

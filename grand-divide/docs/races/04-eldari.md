@@ -13,7 +13,7 @@ Eldari are natural innovators and compulsive tinkerers, drawn toward mechanisms,
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Small (2-3 feet tall)  
+**Size**: Small (2 to 3 feet tall)  
 **Life Expectancy**: 100 years  
 **Speed**: 25 ft.  
 **Languages**: You can speak, read, and write Common and Eldaric.

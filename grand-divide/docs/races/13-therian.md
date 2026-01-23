@@ -13,7 +13,7 @@ Their cultures vary dramatically between clans and regions, often shaped by inst
 ## Racial Traits
 
 **Creature Type**: Humanoid  
-**Size**: Small or Medium (3-8 ft)  
+**Size**: Small or Medium (3 to 8 feet tall)  
 **Life Expectancy**: 80 years  
 **Speed**: 30 ft.  
 **Languages**: You can speak, read, and write Common and Theronian.
